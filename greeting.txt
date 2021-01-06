@@ -1,3 +1,4 @@
-me: Hello Git
-you: Hi, Happy new year!
-student: Hello all
+me: Hello Git!
+you: Hi, Happy new year, 2021!
+Student: Hello all
+subject: ITEC1307
